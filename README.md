@@ -1,6 +1,6 @@
 # Agile Final Project
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 
 This is the final project of the course "Introduction to Agile Development and Scrum" by IBM.
 
