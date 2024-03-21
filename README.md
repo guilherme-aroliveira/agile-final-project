@@ -1,6 +1,6 @@
 # Agile Final Project
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit) 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
 
 This is the final project of the course "Introduction to Agile Development and Scrum" by IBM.
 
@@ -13,6 +13,7 @@ involves moving stories across the kanban boards as a team would do in a real sp
 ## Usage
 
 - Create a new repository on GitHub.
+- Add an issue template on the repository.
 - Create a new workspace on ZenHub and link it to the repository.
 - Create all the issues according to the project instructions.
 
