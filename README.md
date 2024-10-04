@@ -6,9 +6,9 @@ This is the final project of the course "Introduction to Agile Development and S
 
 ## Description
 
-This project consist of a ZenHub kanbam board an a GitHub repository to practice the creation of user stories,
+This project consists of a ZenHub kanbam board a GitHub repository to practice the creation of user stories,
 assembling them into a product backlog, refining them to produce a sprint plan, and perform a mock sprint that 
-involves moving stories across the kanban boards as a team would do in a real sprint.
+involves moving stories across the Kanbam boards as a team would do in a real sprint.
 
 ## Usage
 
